@@ -29,9 +29,11 @@ This project analyzes world layoffs data using SQL to uncover trends across comp
  <img width="482" height="403" alt="biggest single layoffs" src="https://github.com/user-attachments/assets/f3a1f4c4-e80b-4c4e-bc51-9d35caf5370e" />
 
 
+
 - layoffs per year
   
  <img width="418" height="284" alt="layoffs per year output" src="https://github.com/user-attachments/assets/04d41dac-acf4-4c38-a4e2-9c815a861bfe" />
+
 
 
 - layoffs per month
