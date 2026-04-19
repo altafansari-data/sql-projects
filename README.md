@@ -45,3 +45,9 @@ This project analyzes world layoffs data using SQL to uncover trends across comp
 ## Key Insights
 - Identified industries most affected by layoffs
 - Found peak layoff periods
+
+
+## 👤 Author
+
+Altaf Ansari
+Aspiring Data Analyst | SQL Developer
