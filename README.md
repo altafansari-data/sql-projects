@@ -4,7 +4,7 @@
 This project analyzes world layoffs data using SQL to uncover trends across companies, industries, and countries.
 
 ## Tools Used
-- MySQL 
+- SQL(MySQL) 
 
 ## Key Analysis
 - Top companies with highest layoffs
