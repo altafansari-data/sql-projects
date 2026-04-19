@@ -1,4 +1,3 @@
-# sql-projects
 # World.Layoffs Data Analysis (SQL)
 
 ## Project Overview
